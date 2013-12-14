@@ -1,4 +1,3 @@
-require 'pry'
 class TddWordAnalytics
   attr_reader :sentence
   def initialize(sentence)
